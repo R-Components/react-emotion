@@ -1,0 +1,22 @@
+{
+  "name": "react-emotion",
+  "version": "1.0.0",
+  "description": "react emotion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Components/react-emotion.git"
+  },
+  "keywords": [
+    "react-emotion"
+  ],
+  "author": "Go7hic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/R-Components/react-emotion/issues"
+  },
+  "homepage": "https://github.com/R-Components/react-emotion#readme"
+}

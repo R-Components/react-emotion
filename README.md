@@ -1,2 +1,4 @@
 # react-emotion
-QQ emotion for react
+emotion for react (目前只支持QQ表情)
+
+
